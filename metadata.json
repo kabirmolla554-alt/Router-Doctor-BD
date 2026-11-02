@@ -1,0 +1,6 @@
+{
+  "name": "Router Doctor BD",
+  "description": "Professional router configuration, MikroTik RouterOS command generator, speed test, ping, LAN scanner, and ISP troubleshooting toolkit by Kabir Molla.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
